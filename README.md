@@ -1,6 +1,7 @@
-J'ai réalisé le sujet demandé en 3h (1h+2h pour être plus précis).
-
-Je ne connaissais pas du tout le framework FOLIUM et je suis très impressionné par sa puissance.
+J'ai réalisé le sujet demandé en 3h (1h+2h pour être plus précis) :
+- je ne connaissais pas du tout le framework FOLIUM et je suis très impressionné par sa puissance ;
+- j'ai pris le temps d'appéhender les données d'où la suppression des départements non présents dans les données géographiques ;
+- j'ai perdu beaucoup de temps car pour l'attribut key_on de folium.Choropleth j'avais mis un 's' à feature et du coup ça plantait ... :s
 
 Liens utilisés pour les données :
 - COVID : https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/ et le fichier donnees-hospitalieres-nouveaux-covid19-2020-12-29-19h03.csv
